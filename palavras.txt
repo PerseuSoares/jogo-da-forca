@@ -1,0 +1,10 @@
+gato
+mundo
+jogo
+computador
+revista
+televisao
+mesa
+sofa
+estatua
+quadro
